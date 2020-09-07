@@ -1,6 +1,3 @@
-# uts-qsharp-intro
-
-
 ## Talk and demo code for
 # _Introduction to Q#: A high level quantum development language for everyone_ 
 ### Seminar for the [University of Technology Sydney](https://www.uts.edu.au/research-and-teaching/our-research/centre-quantum-software-and-information/events/online-seminar-dr-sarah-kaiser-wa-usa) | 7 Sept 2020
