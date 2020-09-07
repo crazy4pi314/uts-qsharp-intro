@@ -5,7 +5,7 @@
 # _Introduction to Q#: A high level quantum development language for everyone_ 
 ### Seminar for the [University of Technology Sydney](https://www.uts.edu.au/research-and-teaching/our-research/centre-quantum-software-and-information/events/online-seminar-dr-sarah-kaiser-wa-usa) | 7 Sept 2020
 
-> Try running the presentation Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)]()
+> Try running the presentation Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crazy4pi314/uts-qsharp-intro/master?filepath=presentation.ipynb)
 > 
 <!-- > The video for this presentation can be found on [YouTube](https://youtu.be/nMiSHq_FuT0) -->
 
